@@ -1,0 +1,45 @@
+.tournament-container {
+  background-color: rgb(126, 107, 107);
+  color: #fff;
+  display: flex;
+  position: relative;
+  height: 800px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tour-wrapper {
+  padding: 20px;
+  width: 1100px;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(219, 175, 175);
+
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.tournament {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.tournament:nth-child(odd) {
+  background: gray;
+}
+
+.tournament:nth-child(even) {
+  background: rgb(179, 133, 133);
+}
+
+.club-now {
+  border: 1px solid black;
+}
+
+.tour-btn {
+  position: absolute;
+  right: 203px;
+  top: 20px;
+}

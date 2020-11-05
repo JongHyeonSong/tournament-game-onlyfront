@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: #0c0c0c;
+  height: 2600px;
+  color: #fff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 0 30px;
+  z-index: 1;
+}
+
+.groups-wrapper {
+  max-width: 1100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-between;
+}
+
+.group {
+  padding: 10px 30px;
+  width: 550px;
+  height: 600px;
+  border: 1px solid black;
+  background: linear-gradient(to right, rgb(255, 188, 188), rgb(248, 143, 143));
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.group-h1 {
+}
+
+.day-container {
+  width: 1100px;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  color: #fff;
+}
+
+.day-container button {
+  height: 50px;
+  background: red;
+}
+
+.day-container button:hover {
+  height: 50px;
+  background: gray;
+}
+@media screen and (max-width: 1100px) {
+  .day-container {
+    width: 550px;
+  }
+  .groups-wrapper {
+    grid-template-columns: 1fr;
+  }
+  .container {
+    height: 5000px;
+  }
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+.clubstatus-wrapper {
+  padding: 0 10px;
+}
