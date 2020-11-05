@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tournament-game-onlyfront/static/css/main.f49ac9b9.chunk.css",
-    "main.js": "/tournament-game-onlyfront/static/js/main.c6b6f900.chunk.js",
-    "main.js.map": "/tournament-game-onlyfront/static/js/main.c6b6f900.chunk.js.map",
+    "main.js": "/tournament-game-onlyfront/static/js/main.f60f3c6b.chunk.js",
+    "main.js.map": "/tournament-game-onlyfront/static/js/main.f60f3c6b.chunk.js.map",
     "runtime-main.js": "/tournament-game-onlyfront/static/js/runtime-main.2d9cecbc.js",
     "runtime-main.js.map": "/tournament-game-onlyfront/static/js/runtime-main.2d9cecbc.js.map",
     "static/js/2.7eb5eb81.chunk.js": "/tournament-game-onlyfront/static/js/2.7eb5eb81.chunk.js",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.2d9cecbc.js",
     "static/js/2.7eb5eb81.chunk.js",
     "static/css/main.f49ac9b9.chunk.css",
-    "static/js/main.c6b6f900.chunk.js"
+    "static/js/main.f60f3c6b.chunk.js"
   ]
 }
