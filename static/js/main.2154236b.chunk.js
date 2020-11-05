@@ -1,2 +1,0 @@
-(this["webpackJsonpgjh-test"]=this["webpackJsonpgjh-test"]||[]).push([[0],{10:function(t,e,s){"use strict";s.r(e);var n=s(0),a=(s(2),s(3)),c=s.n(a);s(9);var d=function(){return Object(n.jsx)("div",{children:"asdfasdfsadfsadfafdsasfd"})};c.a.render(Object(n.jsx)(n.Fragment,{children:Object(n.jsx)(d,{})}),document.getElementById("root"))},9:function(t,e,s){}},[[10,1,2]]]);
-//# sourceMappingURL=main.2154236b.chunk.js.map
