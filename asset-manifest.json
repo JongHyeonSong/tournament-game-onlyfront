@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tournament-game-onlyfront/static/css/main.f49ac9b9.chunk.css",
-    "main.js": "/tournament-game-onlyfront/static/js/main.8809a7a2.chunk.js",
-    "main.js.map": "/tournament-game-onlyfront/static/js/main.8809a7a2.chunk.js.map",
+    "main.js": "/tournament-game-onlyfront/static/js/main.870b2c21.chunk.js",
+    "main.js.map": "/tournament-game-onlyfront/static/js/main.870b2c21.chunk.js.map",
     "runtime-main.js": "/tournament-game-onlyfront/static/js/runtime-main.ecb8b0a8.js",
     "runtime-main.js.map": "/tournament-game-onlyfront/static/js/runtime-main.ecb8b0a8.js.map",
-    "static/js/2.26fcd83c.chunk.js": "/tournament-game-onlyfront/static/js/2.26fcd83c.chunk.js",
-    "static/js/2.26fcd83c.chunk.js.map": "/tournament-game-onlyfront/static/js/2.26fcd83c.chunk.js.map",
+    "static/js/2.c8d3cbf6.chunk.js": "/tournament-game-onlyfront/static/js/2.c8d3cbf6.chunk.js",
+    "static/js/2.c8d3cbf6.chunk.js.map": "/tournament-game-onlyfront/static/js/2.c8d3cbf6.chunk.js.map",
     "index.html": "/tournament-game-onlyfront/index.html",
     "static/css/main.f49ac9b9.chunk.css.map": "/tournament-game-onlyfront/static/css/main.f49ac9b9.chunk.css.map",
-    "static/js/2.26fcd83c.chunk.js.LICENSE.txt": "/tournament-game-onlyfront/static/js/2.26fcd83c.chunk.js.LICENSE.txt",
+    "static/js/2.c8d3cbf6.chunk.js.LICENSE.txt": "/tournament-game-onlyfront/static/js/2.c8d3cbf6.chunk.js.LICENSE.txt",
     "static/media/champions-league-opening.866d5696.mp4": "/tournament-game-onlyfront/static/media/champions-league-opening.866d5696.mp4",
     "static/media/svg-1.c02fb6a8.svg": "/tournament-game-onlyfront/static/media/svg-1.c02fb6a8.svg",
     "static/media/도르트문트.3f85dac4.png": "/tournament-game-onlyfront/static/media/도르트문트.3f85dac4.png",
@@ -47,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ecb8b0a8.js",
-    "static/js/2.26fcd83c.chunk.js",
+    "static/js/2.c8d3cbf6.chunk.js",
     "static/css/main.f49ac9b9.chunk.css",
-    "static/js/main.8809a7a2.chunk.js"
+    "static/js/main.870b2c21.chunk.js"
   ]
 }
